@@ -1,0 +1,6 @@
+packages:
+  - default-jdk
+  - unzip
+  - tar
+  - ntpstat
+
